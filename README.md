@@ -8,10 +8,6 @@ All the data is in Australia region.
 
 ## Edge server datasets
 
-According to Hu et al. [1], edge servers can be deployed at or around LTE base station (BS) sites. Australian Communications and Media 
-Authority (ACMA) publishes the radio-comms license dataset [2] that contains the geographical location of all cellular base stations in 
-Australia, which we use as the edge server dataset. For your convenience, we have uploaded the part of the dataset that stores the latitude
-and longitude of BS (**site.csv**). Note that this data is owned by ACMA, the use of this dataset must conform to ACMA's regulations.
 
 ## Edge user datasets
 
