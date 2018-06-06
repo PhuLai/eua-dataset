@@ -6,8 +6,8 @@ We would love to hear from you on ideas to improve the datasets.
 
 All the data is in Australia region.
 
-- edge-servers folder: contains datasets of edge servers.
-- users: contains datasets of users.
+- _edge-servers_ folder: contains datasets of edge server locations.
+- _users_ folder: contains datasets of user location.
 
 
 ### Acknowledgements
