@@ -16,7 +16,7 @@ Below is an example of edge servers with their coverages and end-users.
 - [The Australian Communications and Media Authority](https://www.acma.gov.au/Industry/Spectrum/Radiocomms-licensing/Register-of-radiocommunications-licences/radiocomms-licence-data) for the radio base station dataset.
 - [IP-API](http://ip-api.com/) for use to convert IP addresses to geographical locations.
 
-##License The MIT License (MIT)
+#### License The MIT License (MIT)
 
 Copyright © 2018, Swin-Edge, Swinburne University of Technology.
 
