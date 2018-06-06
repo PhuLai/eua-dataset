@@ -5,7 +5,7 @@ use an IP lookup service ([IP-API](http://ip-api.com/docs/)) to convert the obta
 
 The up-to-date IP address blocks managed by APNIC can be found here (ftp://ftp.apnic.net/public/apnic/stats/apnic/delegated-apnic-extended-latest). You can then use [this tool](https://github.com/matthewvukomanovic/APNIC.Parser) to convert the IP format which APNIC releases into [CIDR](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation) format.
 
-#### List of contents of the datasets:
+#### List of contents:
 File|Size|Fields|Description
 :--|:--|:--|:--
 australia-ip-ranges.csv|7606|CIDR block|All IP blocks assigned to Australia, extracted from APNIC as of 08/05/2018
