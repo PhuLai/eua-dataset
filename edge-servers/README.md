@@ -10,7 +10,7 @@ File|Size|Fields|Description
 site.csv|95562x10|SiteID-Latitude-Longitude-Name-State-LicensingAreaID-PostCode-SitePrecision-Elevation-HCISL2|All BS of all telcos in Australia|
 site-optus-melbCBD.csv|125x10|SiteID-Latitude-Longitude-Name-State-LicensingAreaID-PostCode-SitePrecision-Elevation-HCISL2|All Optus BS in Melbourne CBD area|
 all-telco-sites-metro.html|9318||Visualization of all BS of all telcos in Melbourne Metropolitan area (9318 base stations)
-all-optus-sites-metro.html|1463||Visualization of all BS of Optus telco in Melbourne Metropolitan area (1463 base stations)
+all-optus-sites-metro.html|1464||Visualization of all BS of Optus telco in Melbourne Metropolitan area, including Melbourne CBD (1464 base stations)
 
 
 [1] Hu, Y.C., Patel, M., Sabella, D., Sprecher, N., Young, V.: Mobile Edge Computing A key technology towards 5G. Tech. Rep. 11, European Telecommunications Standards Institute (2015), http://www.etsi.org/images/files/ETSIWhitePapers/etsi_wp11_mec_a_key_technology_towards_5g.pdf 
