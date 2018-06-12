@@ -8,6 +8,7 @@ Australia, which we use as the edge server dataset. For your convenience, we hav
 File|Size|Fields|Description
 :--|:--|:--|:--
 site.csv|95562x10|SiteID-Latitude-Longitude-Name-State-LicensingAreaID-PostCode-SitePrecision-Elevation-HCISL2|All BS of all telcos in Australia|
+site-optus-melbCBD.csv|125x10|SiteID-Latitude-Longitude-Name-State-LicensingAreaID-PostCode-SitePrecision-Elevation-HCISL2|All Optus BS in Melbourne CBD area|
 all-telco-sites-metro.html|9318||Visualization of all BS of all telcos in Melbourne Metropolitan area (9318 base stations)
 all-optus-sites-metro.html|1463||Visualization of all BS of Optus telco in Melbourne Metropolitan area (1463 base stations)
 
