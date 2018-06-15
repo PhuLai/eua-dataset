@@ -14,3 +14,7 @@ File|Size|Fields|Description
 australia-ip-ranges.csv|7606|CIDR block|All IP blocks assigned to Australia, extracted from APNIC as of 08/05/2018
 users-aus.csv|4748x7|IP-Latitude-Longitude-PostCode-City-State-Country|All unique user location in Australia extracted from APNIC, after being converted by IP-API
 users_aus.html|7606||Visualization of all users in users-aus.csv
+users-melbcbd-generated.csv|816x2|Latitude-Longitude|Uniformly generated users in the Melbourne CBD area.
+users-melbcbd-generated.html|816||Visualization of all users in users-melbcbd-generated.csv
+users-melbmetro-generated.csv|131312x2|Latitude-Longitude|Uniformly generated users in the Melbourne metropolitan area.
+users-melbmetro-generated.zip|131312||Visualization of all users in users-melbmetro-generated.csv
