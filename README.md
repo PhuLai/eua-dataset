@@ -15,3 +15,5 @@ Below is an example of edge servers with their coverages and end-users.
 ### Acknowledgements
 - [The Australian Communications and Media Authority](https://www.acma.gov.au/Industry/Spectrum/Radiocomms-licensing/Register-of-radiocommunications-licences/radiocomms-licence-data) for the radio base station dataset.
 - [IP-API](http://ip-api.com/) for use to convert IP addresses to geographical locations.
+
+If you use this dataset in your research, please kindly cite our work: Phu Lai, Qiang He, Mohamed Abdelrazek, Feifei Chen, John Hosking, John Grundy, and Yun Yang, Optimal Edge User Allocation in Edge Computing with Variable Sized Vector Bin Packing, 16th International Conference on Service-Oriented Computing (ICSOC2018), Hangzhou, China, 2018.
