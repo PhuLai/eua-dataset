@@ -17,4 +17,5 @@ Below is an example of edge servers with their coverages and end-users.
 - [IP-API](http://ip-api.com/) for use to convert IP addresses to geographical locations.
 
 If you use this dataset in your research, please kindly cite our work: 
+
 [Lai et al. 2018] Phu Lai, Qiang He, Mohamed Abdelrazek, Feifei Chen, John Hosking, John Grundy, and Yun Yang, Optimal Edge User Allocation in Edge Computing with Variable Sized Vector Bin Packing, 16th International Conference on Service-Oriented Computing (ICSOC2018), pp. 230-245, Hangzhou, China, 2018.
