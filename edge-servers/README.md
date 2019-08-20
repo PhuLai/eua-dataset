@@ -4,6 +4,8 @@ According to Hu et al. [1], edge servers can be deployed at or around LTE base s
 Authority (ACMA) publishes the radio-comms license dataset [2] that contains the geographical location of all cellular base stations in 
 Australia, which we use as the edge server dataset. For your convenience, we have uploaded the part of the dataset that stores the latitude and longitude of BS (**site.csv**). Note that this data is owned by ACMA, the use of this dataset must conform to ACMA's regulations. Visit [ACMA](https://www.acma.gov.au/Industry/Spectrum/Radiocomms-licensing/Register-of-radiocommunications-licences/radiocomms-licence-data) for more info about the data.
 
+In order to view the HTML map, please use your GoogleMap API key.
+
 #### List of contents:
 File|Size|Fields|Description
 :--|:--|:--|:--
