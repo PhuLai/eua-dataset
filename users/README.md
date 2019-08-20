@@ -5,8 +5,10 @@ use an IP lookup service ([IP-API](http://ip-api.com/docs/)) to convert the obta
 
 The up-to-date IP address blocks managed by APNIC can be found here (ftp://ftp.apnic.net/public/apnic/stats/apnic/delegated-apnic-extended-latest). You can then use [this tool](https://github.com/matthewvukomanovic/APNIC.Parser) to convert the IP format which APNIC releases into [CIDR](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing#CIDR_notation) format.
 
-Below if the polygon coordinates of the Melbourne CBD area, which can be used to get all users within the area.
+Below is the polygon coordinates of the Melbourne CBD area, which can be used to get all users within the area.
 MELBOURNE_CBD_POLYGON = [(144.9513187173424,-37.81313439053935), (144.9549965367283,-37.82117612446662), (144.9748200238013,-37.81524024624075), (144.9715203527905,-37.80786609093214), (144.9705381920906,-37.80755065732971), (144.9513187173424,-37.81313439053935)]
+
+In order to view the HTML map, please use your GoogleMap API key.
 
 #### List of contents:
 File|Size|Fields|Description
