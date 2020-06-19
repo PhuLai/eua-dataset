@@ -28,8 +28,11 @@ If you have used the EUA repository, we would appreciate citations to the follow
 
 The below publications use our EUA repository:
 17. Phu Lai, Qiang He, Guangming Cui, Xiaoyu Xia, Mohamed Abdelrazek, Feifei Chen, John Hosking, John Grundy, Yun Yang, QoE-aware User Allocation in Edge Computing Systems with Dynamic QoS, Future Generation Computer Systems (FGCS), accepted in June 2020.
+
 16.	Phu Lai, Qiang He, John Grundy, Feifei Chen, Mohamed Abdelrazek, John Hosking, Yun Yang, Cost-Effective App User Allocation in an Edge Computing Environment, IEEE Transactions on Cloud Computing (TCC), accepted in June, 2020.
+
 15.	Guangming Cui, Qiang He, Xiaoyu Xia, Phu Lai, Feifei Chen, Tao Gu, Yun Yang, Interference-aware SaaS User Allocation Game for Edge Computing, IEEE Transactions on Cloud Computing (TCC), accepted in June, 2020.
+
 14. Zhiwei Xu, Guobing Zou, Xiaoyu Xia, Ya Liu, Yanglan Gan, Bofeng Zhang, Qiang He, Distance-aware Edge User Allocation with QoE Optimization, 27th IEEE International on Web Services (ICWS2020 CORE A, CCF B), Beijing, China, 2020. 
 13. Xiaoyu Xia, Feifei Chen, Guangming Cui, Mohamed Abdelrazek, John Grundy, Hai Jin, Qiang He, Budgeted Data Caching based on k-Median in Mobile Edge Computing, 27th IEEE International on Web Services (ICWS2020 CORE A, CCF B), Beijing, China, 2020.
 12. Ying Liu, Ao Zhang, Xiaoyu Xia, Feifei Chen, Bin Zhang and Qiang He, Proactive Data Cache and Replacement in the Edge Computing Environment, 13th IEEE Conference on Cloud Computing (CLOUD2020, CCF C), Beijing, China, 2020.
