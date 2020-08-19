@@ -27,12 +27,27 @@ If you have used the EUA repository, we would appreciate citations to the follow
 **Publications**
 
 The below publications use our EUA repository:
+1. Xiaoyu Xia, Feifei Chen, Qiang He, John Grundy, Mohamed Abdelrazek, Hai Jin, Online Collaborative Data Caching in Edge Computing, IEEE Transactions on Parallel and Distributed Systems (TPDS), DOI: 10.1109/TPDS.2020.3016344, 2020. 
+
+1. Bo Li, Qiang He*, Guangming Cui, Xiaoyu Xia, Feifei Chen, Hai Jin and Yun Yang, READ: Robustness-oriented Edge Application Deployment in Edge Computing Environment, IEEE Transactions on Services Computing (TSC), DOI: 10.1109/TSC.2020.3015316, 2020. 
+
+1. Xiaoyu Xia, Feifei Chen, Qiang He*, John Grundy, Mohamed Abdelrazek, Hai Jin, Cost-Effective App Data Distribution in Edge Computing, IEEE Transactions on Parallel and Distributed Systems (TPDS), Vol. 32(1), pp. 31-44, DOI: 10.1109/TPDS.2020.3010521, 2020. 
+
+1. Xiaoyu Xia, Feifei Chen, Qiang He*, Guangming Cui, Phu Lai, Mohamed Abdelrazek, John Grundy, Hai Jin, Graph-based Data Caching Optimization for Edge Computing, Future Generation Computer Systems (FGCS), Vol. 133, pp. 228-239, 2020. DOI: 10.1016/j.future.2020.07.016 
+
+1. Guangming Cui, Qiang He*, Feifei Chen, Hai Jin, Yun Yang, Trading off between User Coverage and Network Robustness for Edge Server Placement, IEEE Transactions on Cloud Computing (TCC, 中科院1区, Q1), DOI: 10.1109/TCC.2020.3008440, 2020. PDF
 
 1. Phu Lai, Qiang He, Guangming Cui, Xiaoyu Xia, Mohamed Abdelrazek, Feifei Chen, John Hosking, John Grundy, Yun Yang, QoE-aware User Allocation in Edge Computing Systems with Dynamic QoS, Future Generation Computer Systems (FGCS), accepted in June 2020.
 
 16.	Phu Lai, Qiang He, John Grundy, Feifei Chen, Mohamed Abdelrazek, John Hosking, Yun Yang, Cost-Effective App User Allocation in an Edge Computing Environment, IEEE Transactions on Cloud Computing (TCC), accepted in June, 2020.
 
 15.	Guangming Cui, Qiang He, Xiaoyu Xia, Phu Lai, Feifei Chen, Tao Gu, Yun Yang, Interference-aware SaaS User Allocation Game for Edge Computing, IEEE Transactions on Cloud Computing (TCC), accepted in June, 2020.
+
+1. Qinglan Peng, Yunni Xia, Yan Wang, Chunrong Wu, Jia Lee, A Decentralized Collaborative Approach to Online Edge User Allocation in Edge Computing Environments, 18th International Conference on Service-Oriented Computing (ICSOC2020), Dubai, UAE, 2020.
+
+1. Guobing Zou, Ya Liu, Zhen Qin, Jin Chen, Zhiwei Xu, Yanglan Gan, Bofeng Zhang, Qiang He, TD-EUA: Task-decomposable Edge User Allocation with QoE Optimization, 18th International Conference on Service-Oriented Computing (ICSOC2020), Dubai, UAE, 2020. 
+
+1. Wei Du, Xiran Zhang, Qiang He, Wei Liu, Guangming Cui, Feifei Chen, Yuan Ji, Chenran Cai, Yanchao Yang, Fault-tolerating Edge Computing with Server Redundancy based on a Variant of Group Degree Centrality, 18th International Conference on Service-Oriented Computing (ICSOC2020), Dubai, UAE, 2020. 
 
 14. Zhiwei Xu, Guobing Zou, Xiaoyu Xia, Ya Liu, Yanglan Gan, Bofeng Zhang, Qiang He, Distance-aware Edge User Allocation with QoE Optimization, 27th IEEE International on Web Services (ICWS2020), Beijing, China, 2020. 
 
